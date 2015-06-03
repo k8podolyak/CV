@@ -11,6 +11,9 @@ td {
 	color:black;
 	text-align:left;
 }
+table{
+	margin: auto;
+}
 img {
 	height:50px;
 }
