@@ -1,0 +1,23 @@
+body {
+	background-color:white;
+}
+table {
+	margin: auto;
+	width:600px;
+	font-family:Tahoma,san-serif;
+	font-size:16px;
+	color:black;
+	text-align:left;
+	background-color:#ffe6cc;
+}
+tr {
+ border-bottom:1px solid black;
+ }
+th{
+	font-size:20px;
+	color:black;
+	text-align:center;
+}
+td{
+	padding:5px;
+}
