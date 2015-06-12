@@ -21,9 +21,17 @@ th{
 td{
 	padding:5px;
 }
-.theme { text-align:center;
+.theme { 
+	text-align:center;
 	font-weight: bold;
 }
 a:hover {
 	font-weight:bold;
+}
+a {
+	text-decoration:none;
+	}
+img:hover {
+	height:140;
+	width:140;	
 }
