@@ -24,3 +24,6 @@ td{
 .theme { text-align:center;
 	font-weight: bold;
 }
+a:hover {
+	font-weight:bold;
+}
